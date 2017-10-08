@@ -1,0 +1,15 @@
+{
+    "name": "cloudatgithub/composer",
+    "description": "composer project",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "authors": [
+        {
+            "name": "meng xiangwei",
+            "email": "3344533686@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
